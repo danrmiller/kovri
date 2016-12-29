@@ -29,7 +29,7 @@
  *                                                                                            //
  * Parts of the project are originally copyright (c) 2013-2015 The PurpleI2P Project          //
  */
-
+CHANGE
 #ifndef SRC_CLIENT_CONTEXT_H_
 #define SRC_CLIENT_CONTEXT_H_
 

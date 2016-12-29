@@ -1,4 +1,4 @@
-## Step 1. Minimum requirements
+CHANGE 1## Step 1. Minimum requirements
 
 ####Note: Due to [#403](https://github.com/monero-project/kovri/issues/403), a minimum of 1 GiB of RAM is suggested for build environments.    
 
